@@ -16,4 +16,24 @@ Before getting started, make sure you have the following dependencies installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/amazon-product-scraper.git
+git clone https://github.com/Kayocma/challenger.git
+
+2. Navigate to the project directory:
+
+```bash
+cd challenger
+
+3. Install the necessary Node.js packages:
+
+```bash
+npm install
+
+## Usage
+
+1. Start the backend server by running node server.js.
+
+2. Open the index.html file in your web browser.
+
+3. Enter a search keyword (e.g., "laptop") and click the "Scrape" button.
+
+4. The application will retrieve and display product listings from Amazon for the keyword you provided.
